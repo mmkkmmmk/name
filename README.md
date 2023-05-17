@@ -129,3 +129,4 @@ README〜ER 図作成：5/31 〆切
 - JavaScript
 - Bootstrap
 - heroku
+  あ
