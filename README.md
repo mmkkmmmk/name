@@ -1,6 +1,7 @@
 # name
 
-figma:https://www.figma.com/file/IDbUNwP6LEjThwOOi9qqaR/%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BA%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86?type=design&node-id=0-1&t=RWUae70Y0g3MBzfi-0
+figma:https://www.figma.com/file/IDbUNwP6LEjThwOOi9qqaR/%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BA%E4%BA%BA%E4%BA%8B%E7%AE%A1%E7%90%86?type=design&node-id=0-1&t=a1dxw8SWtckPbvXx-0
+
 ■ サービス概要
 面接から退社処理まで人に関する情報や処理を明確にし、
 各現場直行直帰が多く連携がとりずらい常駐型の仕事に関して
